@@ -14,13 +14,13 @@ If needed, this can be modified to tell you about other holidays (but who cares 
 
 It's Christmas  (here the word "eve" is written 
 corresponding to the number of days until Christmas) !!!!!!!!
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 (XX) days to go!
-
+ 
 -------------------------------------------------------------------
 # Version B print like this:
 
