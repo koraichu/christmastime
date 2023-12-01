@@ -10,27 +10,10 @@ gives you your presents and figgy pudding.
 If needed, this can be modified to tell you about other holidays (but who cares about those, right?).
 
 
-# Version A prints like this:
+Version A tells you how many days there are to Christmas with the added bonus of telling you that it's Christmas (Eve * (Days until Christmas)).
 
-It's Christmas  (here the word "eve" is written 
-corresponding to the number of days until Christmas) !!!!!!!!
-‎‎‎‎‎‎‎‎ㅤ
-‎‎‎‎‎‎‎‎ㅤ
-‎‎‎‎‎‎‎‎ㅤ
-‎‎‎‎‎‎‎‎ㅤ
-‎‎‎‎‎‎‎‎ㅤ
-‎‎‎‎‎‎‎‎ㅤ
-‎‎‎‎‎‎‎‎ㅤ
-‎‎‎‎‎‎‎‎ㅤ
-(XX) days to go!
- 
--------------------------------------------------------------------
-# Version B print like this:
+Version B simply tells you the number of days but with fun block numbers.
 
-‎‎‎‎‎‎‎‎ㅤ   There are
-‎‎‎‎‎‎‎‎ㅤ██████  ██████
-‎‎‎‎‎‎‎‎ㅤ█    █  █    █
-‎‎‎‎‎‎‎‎ㅤ█    █  █    █
-‎‎‎‎‎‎‎‎ㅤ█    █  █    █
-‎‎‎‎‎‎‎‎ㅤ██████  ██████
-days until Christmas!
+Maybe one day there'll be a Version C that does both, 
+but for now you're lucky you're even getting Version B 
+because I almost forgot it existed until I created the repo (dude).
