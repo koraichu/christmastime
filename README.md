@@ -8,3 +8,26 @@ to a wondrous text box telling you how many days are left until the jolly man hi
 gives you your presents and figgy pudding.
 
 If needed, this can be modified to tell you about other holidays (but who cares about those, right?).
+
+
+# Version A prints like this:
+
+It's Christmas  (here the word "eve" is written 
+corresponding to the number of days until Christmas) !!!!!!!!
+
+
+
+
+
+(XX) days to go!
+
+-------------------------------------------------------------------
+# Version B print like this:
+
+    There are
+  ██████  ██████
+  █    █  █    █
+  █    █  █    █
+  █    █  █    █
+  ██████  ██████
+days until Christmas!
